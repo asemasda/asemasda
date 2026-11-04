@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Asem+%F0%9F%91%8B;Full-stack+developer;Based+in+Amsterdam" alt="Typing SVG" />
+</h1>
 
-<!--
-**asemasda/asemasda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a developer living in Amsterdam with a BSc in Computer Science from the University of Debrecen. I like making things that work, whether it’s a client’s Shopify store or a web app. I learn new tech because it lets me build stuff I couldn’t build before. I'm also building up my cloud skills, currently working through Azure certifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Things I'm interested in
+
+- Cloud (Azure)
+- E-commerce and Shopify
+- Networking and security
+- Gaming
+
+
+## Technologies I want to learn
+
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD
+
+
+## Most Used Teach
+
+Next.js · TypeScript · React ·   Tailwind CSS ·
+
+## Top languages
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=asemasda&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+## GitHub streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asemasda&theme=tokyonight" alt="GitHub Streak" />
+</p>
