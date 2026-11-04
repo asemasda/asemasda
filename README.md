@@ -23,9 +23,6 @@ I'm a developer living in Amsterdam with a BSc in Computer Science from the Univ
 - CI/CD
 
 
-## Most Used Teach
-
-Next.js · TypeScript · React ·   Tailwind CSS ·
 
 ## Top languages
 
