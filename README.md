@@ -4,7 +4,7 @@
 
 ## About me
 
-I live in Amsterdam and have a BSc in Computer Science. I’m a developer moving into infrastructure. I have a Cisco CCNA and Azure AZ-900, and I’m into Linux, networking.
+I live in Amsterdam and have a BSc in Computer Science. I’m a developer moving into infrastructure. I have a Cisco CCNA and Azure AZ-900, and I’m into Linux and networking.
 
 
 ## Things I'm interested in
