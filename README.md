@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a developer living in Amsterdam with a BSc in Computer Science from the University of Debrecen. I like making things that work, whether it’s a client’s Shopify store or a web app. I learn new tech because it lets me build stuff I couldn’t build before. I'm also building up my cloud skills, currently working through Azure certifications.
+I live in Amsterdam and have a BSc in Computer Science. I’m a developer moving into infrastructure. I have a Cisco CCNA and Azure AZ-900, and I’m into Linux, networking and automating.
 
 
 ## Things I'm interested in
